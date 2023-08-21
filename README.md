@@ -29,7 +29,8 @@ there's a place for you to contribute and make a positive impact.
 ## Contribution
 This project is open-source.
 Your contributions are valuable and can help shape the future of sustainability solutions.
-- Feel Free to click the links below to contribute
+
+Feel Free to click the links below to contribute
  - [Frontend contributions](frontend/CONTRIBUTING.md)
  - [Backend contributions](backend/CONTRIBUTING.md)
 
