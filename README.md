@@ -4,8 +4,8 @@ Welcome to the documentation for the Sustainability Consultancy Service Solution
 This repository contains both frontend and backend components for the Website.
 
 ## Table of Contents
-Frontend [https://github.com/oneoasco/iSust/blob/4c321f6d09992070cf297f8baf46f78ba1339b60/frontend/README.md]
-Backend [https://github.com/oneoasco/iSust/blob/4c321f6d09992070cf297f8baf46f78ba1339b60/backend/README.md]
+Frontend [frontend/README.md]
+Backend [backend/README.md]
 
 ## Overview
 The Sustainability Consultancy Service Solution Website project is dedicated to creating 
@@ -26,7 +26,7 @@ getting started with the backend aspect of the project.
 Whether you're a frontend developer, backend expert, or a sustainability enthusiast, 
 there's a place for you to contribute and make a positive impact.
 
-## License
+## Contribution
 This project is open-source.
 Your contributions are valuable and can help shape the future of sustainability solutions.
 
