@@ -1,11 +1,11 @@
 # iSust
-## Sustainability Consultancy Service Solution Website
+## A Sustainability Consultancy Service Solution Website
 Welcome to the documentation for the Sustainability Consultancy Service Solution Website project. 
 This repository contains both frontend and backend components for the Website.
 
 ## Table of Contents
-Frontend
-Backend
+Frontend[]
+Backend[]
 
 ## Overview
 The Sustainability Consultancy Service Solution Website project is dedicated to creating 
