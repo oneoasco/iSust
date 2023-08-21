@@ -17,10 +17,10 @@ the diverse needs of individuals and organizations in the sustainability sector.
 ## Getting Started
 To get involved with the Sustainability Consultancy Service Solution Website project, follow these steps:
 
-Frontend: Navigate to the Frontend README for detailed instructions on setting up and contributing 
+- [Frontend](frontend/README.md): Navigate to the Frontend README for detailed instructions on setting up and contributing 
 to the frontend part of the project.
 
-Backend: Head to the Backend README for comprehensive guidelines on 
+- [Backend](frontend/README.md): Head to the Backend README for comprehensive guidelines on 
 getting started with the backend aspect of the project.
 
 Whether you're a frontend developer, backend expert, or a sustainability enthusiast, 
