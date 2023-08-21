@@ -4,8 +4,8 @@ Welcome to the documentation for the Sustainability Consultancy Service Solution
 This repository contains both frontend and backend components for the Website.
 
 ## Table of Contents
-Frontend[frontend/README.md]
-Backend[backend/README.md]
+[Frontend](frontend/README.md)
+[Backend](backend/README.md)
 
 ## Overview
 The Sustainability Consultancy Service Solution Website project is dedicated to creating 
