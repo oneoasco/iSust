@@ -4,7 +4,7 @@ Welcome to the backend documentation for the Sustainability Consultancy Service 
 
 ## Technologies Used
 - MongoDB
-- SQL (Specify the database system)
+- SQL (Yet to Specify the database system)
 - Node.js
 - PHP (if applicable)
 
