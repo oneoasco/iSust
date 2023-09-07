@@ -30,6 +30,15 @@ there's a place for you to contribute and make a positive impact.
 This project is open-source.
 Your contributions are valuable and can help shape the future of sustainability solutions.
 
+
+Here are the Collaborators on this Project at the moment
+
+[Beryl Odipoh](https://github.com/Bodipoh) - Backend Development
+[Kobiowu Quadri](https://github.com/kobiowuquadri) - Frontend Development
+[Atuma David](https://github.com/AtumaDavid) - Backend Development
+[Favour Bassey](https://github.com/Favour919) - Backend Development
+
+
 Feel Free to click the links below to contribute
  - [Frontend contributions](frontend/CONTRIBUTING.md)
  - [Backend contributions](backend/CONTRIBUTING.md)
