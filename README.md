@@ -33,10 +33,10 @@ Your contributions are valuable and can help shape the future of sustainability 
 
 Here are the Collaborators on this Project at the moment
 
-[Beryl Odipoh](https://github.com/Bodipoh) - Backend Development
-[Kobiowu Quadri](https://github.com/kobiowuquadri) - Frontend Development
-[Atuma David](https://github.com/AtumaDavid) - Backend Development
-[Favour Bassey](https://github.com/Favour919) - Backend Development
+- [Beryl Odipoh](https://github.com/Bodipoh) - Backend Development
+- [Kobiowu Quadri](https://github.com/kobiowuquadri) - Frontend Development
+- [Atuma David](https://github.com/AtumaDavid) - Backend Development
+- [Favour Bassey](https://github.com/Favour919) - Backend Development
 
 
 Feel Free to click the links below to contribute
