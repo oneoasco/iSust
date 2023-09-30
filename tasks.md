@@ -42,10 +42,3 @@ Access the Image Login Page here --> [Login Page](https://imgur.com/jnRNKaN)
 Thank you.
 
 See you in a week
-
-  ******  
- *      * 
-*  O  O  *
-*   ^   *
- *  ~  * 
-  ******
