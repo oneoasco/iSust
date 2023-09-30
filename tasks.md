@@ -13,7 +13,7 @@ The Menu Bar words (Problem, Solution) will be changed to HOME, ABOUT.
 BACKEND Task to be done for the Week
 1. The Backend for the Major Landing Page from the Figma Design by Victoria  
 
-[Beryl Odipoh](https://github.com/Bodipoh)] - Backend Developer
+[Beryl Odipoh](https://github.com/Bodipoh) - Backend Developer
 
 2. The Backend for the Sign up Pages from the Figma Design by Victoria
 
