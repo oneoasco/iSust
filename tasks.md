@@ -27,7 +27,6 @@ The Backend for the Major Landing Page from the Figma Design by Victoria
 [Beryl Odipoh](https://github.com/Bodipoh) - Backend Developer
 - Access the Image here --> [Landing Page](https://imgur.com/8FaUUQ8)
 
-The Backend for the Sign up Pages from the Figma Design by Victoria
 [Favour Bassey](https://github.com/Favour919) - Backend Developer
 - Access the Image Transitions here --> [Sign Up Pages](https://imgur.com/UMAZkBa)
 
